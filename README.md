@@ -15,3 +15,5 @@ Pre-Requisite to do this project
   -> re : Regular Expressions
 
 Project is a beginner friendly project, can learn about new libraries and implemtations of functions while carrying out this project.
+
+I have provided the csv files for training and testing in Zip format as true zip and fake zip.
